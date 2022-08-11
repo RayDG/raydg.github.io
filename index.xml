@@ -6,5 +6,14 @@
     <description>Recent content on RayDG&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://raydg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://raydg.github.io/about/</link>
+      <pubDate>Thu, 02 Jun 2022 20:37:03 +0800</pubDate>
+      
+      <guid>https://raydg.github.io/about/</guid>
+      <description>DG!</description>
+    </item>
+    
   </channel>
 </rss>
